@@ -15,4 +15,3 @@
 |项目规模|备注|贪心|蚁群|...|
 |:--:|:--|:--:|:--|:--|
 |5000*5000区域|500个需求地|<a href="https://github.com/chenyihangis/route-project/blob/master/greedy%20algorithm/code1.txt" target="-blank">code1</a>|||
-
