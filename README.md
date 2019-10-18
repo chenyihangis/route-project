@@ -16,5 +16,3 @@
 |:--:|:--|:--:|:--|:--|
 |5000*5000区域|500个需求地|<a href="https://github.com/chenyihangis/route-project/blob/master/greedy%20algorithm/code1.txt" target="-blank">code1</a>|||
 
-[project progress gantt]("file:///C:/Users/18217/route-project/1.html")
-
