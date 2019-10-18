@@ -6,8 +6,14 @@
 - greedy algorithm
 - ant colont algorithm
 - ...
-# <a href="file:///C:/Users/18217/route-project/1.html" target="-blank">PROJECT PROGRESS</a>
+- [project progress](https://github.com/chenyihangis/route-project#project-progress)
+## greedy algorithm
+...
+## ant colont algorithm
+...
+## PROJECT PROGRESS
 |项目规模|备注|贪心|蚁群|...|
 |:--:|:--|:--:|:--|:--|
 |5000*5000区域|500个需求地|<a href="https://github.com/chenyihangis/route-project/blob/master/greedy%20algorithm/code1.txt" target="-blank">code1</a>|||
+<a href="file:///C:/Users/18217/route-project/1.html" target="-blank">project progress gantt</a>
 
