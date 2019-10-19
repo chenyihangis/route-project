@@ -1,7 +1,7 @@
 # ROUTE PROJECT
 ![](https://i.imgur.com/rK83I2I.jpg)
 ## INTRODUCE
-   路径规划是运动规划的主要研究内容之一。运动规划由路径规划和轨迹规划组成，连接起点位置和终点位置的序列点或曲线称之为路径，构成路径的策略称之为路径规划。
+   路径规划是运动规划的主要研究内容之一。运动规划由路径规划和轨迹规划组成，连接起点位置和终点位置的序列点或曲线称之为路径，构成路径的策略称之为路径规划
 ## CONTENTS
 - [greedy algorithm](https://github.com/chenyihangis/route-project#greedy-algorithm)
 - [ant colont algorithm](https://github.com/chenyihangis/route-project#ant-colont-algorithm)
