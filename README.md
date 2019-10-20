@@ -1,7 +1,7 @@
 # ROUTE PROJECT
 ![](https://i.imgur.com/rK83I2I.jpg)
 ## INTRODUCE
-   .....
+   ......
 ## CONTENTS
 - [greedy algorithm](https://github.com/chenyihangis/route-project#greedy-algorithm)
 - [ant colont algorithm](https://github.com/chenyihangis/route-project#ant-colont-algorithm)
