@@ -1,25 +1,25 @@
-# ROUTE PROJECT
+# 无人机路径规划
 ![](https://i.imgur.com/rK83I2I.jpg)
-## INTRODUCE
+## 简介
    .....
-## CONTENTS
+## 目录
 - [greedy algorithm](https://github.com/chenyihangis/route-project#greedy-algorithm)
 - [ant colont algorithm](https://github.com/chenyihangis/route-project#ant-colont-algorithm)
 - ...
 - [project progress](https://github.com/chenyihangis/route-project#project-progress)
-## greedy algorithm
+## 贪心算法（greedy algorithm）
+- ...
+- ...
+- ...
+## 蚁群算法（ant colont algorithm）
 - advantage
 - disadvantage
 - ...
-## ant colont algorithm
-- advantage
-- disadvantage
-- ...
-## PROJECT PROGRESS
-|项目规模|备注|贪心|原则|蚁群|...|
-|-|-|:--:|-|-|-|
-|5000*5000区域|3个需求地|<a href="https://github.com/chenyihangis/route-project/blob/master/greedy%20algorithm/test(3)" target="-blank">test(3)</a>|最近距离选择运输（载货量为1）|||
-|5000*5000区域|50个需求地|<a href="https://github.com/chenyihangis/route-project/blob/master/greedy%20algorithm/test(50)" target="-blank">test(50)</a>|最近距离选择运输（载货量为1）|||
-|5000*5000区域|50个需求地|<a href="https://github.com/chenyihangis/route-project/blob/master/greedy%20algorithm/test(500)" target="-blank">test(500)</a>|最近距离选择运输（载货量为1）|||
-|5000*5000区域|500个需求地|<a href="https://github.com/chenyihangis/route-project/blob/master/greedy%20algorithm/test%20final" target="-blank">test final</a>|最高运输效率进行选择(载货量大于1)|||
-|5000*5000区域|500个需求地|<a href="https://github.com/chenyihangis/route-project/blob/master/greedy%20algorithm/code1.txt" target="-blank">code1</a>|最高效率进行选择(一次装货直到运完)|||
+## 进展情况
+|问题描述 | 贪心|蚁群|...|测试用例|
+|-|-|-|-|-|
+|5000*5000区域内，3个需求地，3个供应地；2辆车的载货量都是1|<a href="https://github.com/chenyihangis/route-project/blob/master/贪心算法/代码实现1" target="-blank">代码实现</a>|||<a href="https://github.com/chenyihangis/route-project/blob/master/测试用例/1" target="-blank">测试用例</a>|
+|5000*5000区域内，50个需求地，50个供应地；5辆车的载货量都是1|<a href="https://github.com/chenyihangis/route-project/blob/master/贪心算法/代码实现2" target="-blank">代码实现</a>|||<a href="https://github.com/chenyihangis/route-project/blob/master/测试用例/2" target="-blank">测试用例</a>|
+|5000*5000区域内，500个需求地，500个供应地；5辆车的载货量都大于1|<a href="https://github.com/chenyihangis/route-project/blob/master/贪心算法/代码实现3" target="-blank">代码实现</a>|||<a href="https://github.com/chenyihangis/route-project/blob/master/测试用例/3" target="-blank">测试用例</a>|
+|5000*5000区域内，500个需求地，500个供应地；5辆车的载货量都大于1|<a href="https://github.com/chenyihangis/route-project/blob/master/贪心算法/代码实现4" target="-blank">代码实现</a>|||<a href="https://github.com/chenyihangis/route-project/blob/master/测试用例/3" target="-blank">测试用例</a>|
+|5000*5000区域内，500个需求地，500个供应地；5辆车的载货量都大于1|<a href="https://github.com/chenyihangis/route-project/blob/master/贪心算法/代码实现5" target="-blank">代码实现</a>|||<a href="https://github.com/chenyihangis/route-project/blob/master/测试用例/3" target="-blank">测试用例</a>|
