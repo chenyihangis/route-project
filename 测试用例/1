@@ -1,0 +1,7 @@
+coordinates1 = np.array([[200.0, 30.0], [180.0, 70.0], [250.0, 200.0]])  # 需求地坐标
+coordinates1goods = np.array([[3.0], [2.0], [1.0]])
+
+coordinates2 = np.array([[100.0, 30.0], [70.0, 50.0], [30.0, 100.0]])  # 供应地坐标
+coordinates2goods = np.array([[6.0], [5.0], [4.0]])  # 供应地物资
+
+truck_coordinates = [(150, 70), (120, 150)]         #无人机的【x坐标，y坐标】
