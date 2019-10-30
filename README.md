@@ -3,10 +3,10 @@
 ## 简介
    .....
 ## 目录
-- [greedy algorithm](https://github.com/chenyihangis/route-project#greedy-algorithm)
-- [ant colont algorithm](https://github.com/chenyihangis/route-project#ant-colont-algorithm)
+- [贪心算法](https://github.com/chenyihangis/route-project#greedy-algorithm)
+- [蚁群算法](https://github.com/chenyihangis/route-project#ant-colont-algorithm)
 - ...
-- [project progress](https://github.com/chenyihangis/route-project#project-progress)
+- [进展](https://github.com/chenyihangis/route-project#project-progress)
 ## 贪心算法（greedy algorithm）
 - ...
 - ...
@@ -15,7 +15,7 @@
 - advantage
 - disadvantage
 - ...
-## 进展情况
+## 进展
 |问题描述 | 贪心|蚁群|...|测试用例|
 |-|-|-|-|-|
 |5000*5000区域内，3个需求地，3个供应地；2辆车的载货量都是1|<a href="https://github.com/chenyihangis/route-project/blob/master/贪心算法/代码实现1" target="-blank">代码实现</a>|||<a href="https://github.com/chenyihangis/route-project/blob/master/测试用例/1" target="-blank">测试用例</a>|
