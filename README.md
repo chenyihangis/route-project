@@ -22,9 +22,9 @@
 ## 进展
 <table>
 	<tr>
-		<td colspan="5"> <center> 问题描述 </center> </t>
-		<td colspan="4"> <center> 算法 </center> </t>
-		<td rowspan="2"> <center> 测试用例 </center> </t>
+		<td colspan="5"> <div align="center">问题描述</DIV></t>
+		<td colspan="4"> <div align="center">算法</DIV> </t>
+		<td rowspan="2"> <div align="center">测试用例</DIV> </t>
 	</tr>
 	<tr>
 		<th>区域</th>
