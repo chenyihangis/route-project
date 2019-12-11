@@ -57,7 +57,7 @@
 		<th>1</th>
 		<th><a href="https://github.com/chenyihangis/route-project/blob/master/贪心算法/代码实现2" target="-blank">代码实现</a></th>
 		<th></th>
-		<th></th>
+		<th><a href="https://github.com/chenyihangis/route-project/blob/master/粒子群/代码实现2" target="-blank">代码实现</a></th>
 		<th></th>
 		<th><a href="https://github.com/chenyihangis/route-project/blob/master/text2.md" target="-blank">测试用例</a></th>
 	</tr>
@@ -67,7 +67,7 @@
 		<th>500</th>
 		<th>5</th>
 		<th>大于1</th>
-		<th><a href="https://github.com/chenyihangis/route-project/blob/master/贪心算法/代码实现3" target="-blank">代码实现</a></th>
+		<th><a href="https://github.com/chenyihangis/route-project/tree/master/贪心算法/代码实现3" target="-blank">代码实现</a></th>
 		<th></th>
 		<th></th>
 		<th></th>
