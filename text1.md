@@ -12,10 +12,9 @@ truck_coordinates = [(150, 70), (120, 150)]         #[(无人机(1)x坐标，无
 	无人机分别从各自的起点开始，在供应地和需求地之间取送货的动态演示
 
 两架无人机总共走了1,315.0019674670494距离
-![](https://i.imgur.com/SYryqkE.gif)
-![](https://i.imgur.com/gPbOvZw.jpg)
+![](https://i.imgur.com/xiYEqh7.gif)
 
 ## 粒子群算法
 	两架无人机都参与运输
 总共走了1278.4702888264922距离
-
+![](https://i.imgur.com/Imu5Q1j.gif)
