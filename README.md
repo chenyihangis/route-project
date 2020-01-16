@@ -46,7 +46,7 @@
 		<th><a href="https://github.com/chenyihangis/route-project/blob/master/贪心算法/代码实现1" target="-blank">代码实现</a></th>
 		<th></th>
 		<th><a href="https://github.com/chenyihangis/route-project/blob/master/粒子群/代码实现1" target="-blank">代码实现</a></th>
-		<th></th>
+		<th><a href="https://github.com/chenyihangis/route-project/blob/master/遗传算法/代码实现1" target="-blank">代码实现</a></th>
 		<th><a href="https://github.com/chenyihangis/route-project/blob/master/text1.md" target="-blank">测试用例</a></th>
 	</tr>
 	<tr>
@@ -58,7 +58,7 @@
 		<th><a href="https://github.com/chenyihangis/route-project/blob/master/贪心算法/代码实现2" target="-blank">代码实现</a></th>
 		<th></th>
 		<th><a href="https://github.com/chenyihangis/route-project/blob/master/粒子群/代码实现2" target="-blank">代码实现</a></th>
-		<th></th>
+		<th><a href="https://github.com/chenyihangis/route-project/blob/master/遗传算法/代码实现2" target="-blank">代码实现</a></th>
 		<th><a href="https://github.com/chenyihangis/route-project/blob/master/text2.md" target="-blank">测试用例</a></th>
 	</tr>
 	<tr>
@@ -70,5 +70,5 @@
 		<th><a href="https://github.com/chenyihangis/route-project/tree/master/贪心算法/代码实现3" target="-blank">代码实现</a></th>
 		<th></th>
 		<th></th>
-		<th></th>
+		<th><a href="https://github.com/chenyihangis/route-project/blob/master/遗传算法/代码实现3" target="-blank">代码实现</a></th>
 		<th><a href="https://github.com/chenyihangis/route-project/blob/master/测试用例/3" target="-blank">测试用例</a></th>
