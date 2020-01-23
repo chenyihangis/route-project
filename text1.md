@@ -20,6 +20,6 @@ truck_coordinates = [(150, 70), (120, 150)]         #[(无人机(1)x坐标，无
 
 ![](https://i.imgur.com/dlmwDYx.gif)
 
-## 贪心与遗传的比较
+## 贪心与遗传的比较结果
 
 ![](https://i.imgur.com/WHgdyW6.jpg)
