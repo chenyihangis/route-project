@@ -19,3 +19,7 @@ truck_coordinates = [(150, 70), (120, 150)]         #[(无人机(1)x坐标，无
 总共走了1278.4702888264922距离
 
 ![](https://i.imgur.com/dlmwDYx.gif)
+
+## 贪心算法与遗传算法的比较结果
+
+![](https://i.imgur.com/WHgdyW6.jpg)
